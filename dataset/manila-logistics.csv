@@ -1,0 +1,21 @@
+delivery_id,area,neighborhood,nearest_landmark,latitude,longitude,delivery_time,traffic_condition,traffic_multiplier,parcel_type,priority,estimated_delivery_minutes,special_instructions
+DEL000001,Makati,Poblacion,Greenbelt,14.5597,121.0284,2024-11-12 08:30:00,morning_rush,1.8,Medium Box,Express,54.0,Call upon arrival
+DEL000002,BGC,High Street,SM Aura,14.5488,121.0519,2024-11-12 14:15:00,midday,1.2,Small Package,Standard,24.0,Leave at guard house
+DEL000003,Quezon City,Cubao,Gateway Mall,14.6750,121.0427,2024-11-12 18:45:00,evening_rush,2.1,Large Box,Same Day,84.0,Signature required
+DEL000004,Manila,Binondo,Lucky Chinatown,14.6005,120.9832,2024-11-12 22:30:00,night,0.9,Document Envelope,Next Day,18.0,No specific instructions
+DEL000005,Pasig,Ortigas Center,SM Megamall,14.5774,121.0861,2024-11-13 07:45:00,morning_rush,1.9,Small Package,Express,47.5,ID required
+DEL000006,Makati,Bel-Air,Ayala Avenue,14.5557,121.0254,2024-11-13 11:20:00,midday,1.1,Medium Box,Standard,33.0,Leave at guard house
+DEL000007,BGC,McKinley Hill,Venice Grand Canal,14.5498,121.0539,2024-11-13 17:30:00,evening_rush,2.0,Large Box,Express,80.0,Call upon arrival
+DEL000008,Quezon City,Katipunan,Trinoma,14.6770,121.0447,2024-11-13 21:15:00,night,0.8,Document Envelope,Standard,16.0,No specific instructions
+DEL000009,Manila,Malate,Robinsons Place,14.5985,120.9852,2024-11-14 09:00:00,morning_rush,1.7,Small Package,Next Day,42.5,Signature required
+DEL000010,Pasig,Kapitolyo,The Medical City,14.5754,121.0841,2024-11-14 13:45:00,midday,1.3,Medium Box,Same Day,45.5,ID required
+DEL000011,Makati,San Lorenzo,RCBC Plaza,14.5537,121.0234,2024-11-14 19:20:00,evening_rush,2.2,Large Box,Express,88.0,Call upon arrival
+DEL000012,BGC,Uptown Bonifacio,Uptown Mall,14.5518,121.0539,2024-11-14 23:00:00,night,0.9,Document Envelope,Standard,18.0,Leave at guard house
+DEL000013,Quezon City,Commonwealth,SM North EDSA,14.6770,121.0427,2024-11-15 08:15:00,morning_rush,1.8,Small Package,Next Day,45.0,No specific instructions
+DEL000014,Manila,Ermita,Manila City Hall,14.5985,120.9832,2024-11-15 12:30:00,midday,1.2,Medium Box,Express,36.0,Signature required
+DEL000015,Pasig,Green Park,Tiendesitas,14.5774,121.0871,2024-11-15 17:45:00,evening_rush,2.0,Large Box,Same Day,80.0,ID required
+DEL000016,Makati,Magallanes,SM Makati,14.5537,121.0224,2024-11-15 22:15:00,night,0.8,Document Envelope,Standard,16.0,Leave at guard house
+DEL000017,BGC,Forbes Town,Mind Museum,14.5518,121.0549,2024-11-16 09:30:00,morning_rush,1.9,Small Package,Express,47.5,Call upon arrival
+DEL000018,Quezon City,Eastwood,Eastwood City,14.6760,121.0457,2024-11-16 14:00:00,midday,1.1,Medium Box,Next Day,33.0,No specific instructions
+DEL000019,Manila,Intramuros,Intramuros,14.5975,120.9822,2024-11-16 18:30:00,evening_rush,2.1,Large Box,Same Day,84.0,Signature required
+DEL000020,Pasig,San Antonio,Estancia,14.5764,121.0861,2024-11-16 23:45:00,night,0.9,Document Envelope,Express,18.0,ID required
